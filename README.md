@@ -11,8 +11,8 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
  ### This project features is
 
- -html
- -css
- -javascript
- -bootstrap
- -jQuery
+ - html
+ - css
+ - javascript
+ - bootstrap
+ - jQuery
