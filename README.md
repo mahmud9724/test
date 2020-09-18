@@ -21,5 +21,4 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
  - jQuery
 
  [Facebook](https://facebook.com/abufattal.pranto)
-
  [Twitter](https://twitter.com/@mahmud9710)
